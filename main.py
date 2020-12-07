@@ -23,7 +23,7 @@ app.add_middleware(
 )
 myheader = {
     "Content-type": "application/json",
-    "App-Id": "227cf1602fd752e8b4396068c61bb11e47141a3ef8a42fcbbcd01739823c137e",
+    "App-Id": "",
     'Accept': '*/*'
 }
 
